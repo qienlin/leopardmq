@@ -1,4 +1,4 @@
-LeopardMQ
+LightningMQ
 =========
 
-LeopardMQ is a high performance distributed messaging system written in Go.
+LightningMQ is a high performance distributed messaging system written in Go.
